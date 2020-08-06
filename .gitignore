@@ -26,3 +26,5 @@ Src/IronPythonTest/runsettings.*.xml
 # created by CPython tests
 Src/StdLib/Lib/lib2to3/Grammar*.pickle
 Src/StdLib/Lib/lib2to3/PatternGrammar*.pickle
+
+global.json
